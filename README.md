@@ -1,4 +1,1 @@
-git-workshop
-============
-
-ICSSC Git Workshop
+Hello World
